@@ -8,10 +8,10 @@
 
 Adjuntamos algunas capturas:
 
-![Readme](assets/conflicto_readme.jpeg)
+![Readme](asset/conflicto_readme.jpeg)
 
-![Readme1](assets/conflicto_readme1.jpeg)
+![Readme1](asset/conflicto_readme1.jpeg)
 
-![A](assets/conflictoA.jpeg)
+![A](asset/conflictoA.jpeg)
 
 ![A1](assets/conflictoA1.jpeg)
