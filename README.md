@@ -1,6 +1,7 @@
 🌐 ¡Hola mundo!
 
-👋 Me llamo _COMPLETAR_
-🗺️ y actualmente estoy en _COMPLETAR_.
+👋 Me llamo Cristian Luna
+🗺️ y actualmente estoy en Ciudadela City.
 
 📆 En los próximos días, me gustaría _COMPLETAR_.
+
