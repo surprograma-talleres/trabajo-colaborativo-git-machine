@@ -3,5 +3,4 @@
 👋 Me llamo Cristian Luna
 🗺️ y actualmente estoy en Ciudadela City.
 
-📆 En los próximos días, me gustaría _COMPLETAR_.
-
+📆 En los próximos días, me gustaría poder hacer esto XD

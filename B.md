@@ -1,8 +1,8 @@
 # ⚠️⚠️ Este es el archivo de **B** ⚠️⚠️
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Nulla hendrerit orci elit, sit amet molestie lacus lacinia quis.
-Sed pellentesque lectus ultrices, auctor est sed, maximus nisl.
-Ut elit turpis, fermentum non urna sed, feugiat cursus velit.
+El cliente es muy importante, el cliente será seguido por el cliente.
+No hay Hendrerit orci elit, hay mucha lacinia molesta.
+Pero los niños que estudiaron baloncesto, el autor es el jugador más grande.
+Como estudiante de secundaria, el fermento no es la olla, sino el curso feugiat.
 
 # ⚠️⚠️ Este es el archivo de **B** ⚠️⚠️
